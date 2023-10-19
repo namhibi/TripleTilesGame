@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8060486e66ec4bc47af8ca0c7a52ef2e, type: 3}
+  m_Name: Tile_1
+  m_EditorClassIdentifier: 
+  iD: 638333413788526726_f5e41450
+  name: Pig
+  spriteName: Animal_icon_3
+  tile_Image: {fileID: -1892681511, guid: 448222b9b56447147b86f33535d2b3f0, type: 3}

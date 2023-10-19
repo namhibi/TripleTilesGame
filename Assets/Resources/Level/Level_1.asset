@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f72e146b574e44db49e07c6998de9a, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  Name: Map_1
+  DisplayName: Level_1
+  Lv: 1
+  PlayTime: 60
+  dictionaryList:
+  - tile: {fileID: 11400000, guid: c369cd13eae763244b0e147dbd0468bd, type: 2}
+    quantity: 1
+  - tile: {fileID: 11400000, guid: 78da7176ea17d7643a778e1be05017c1, type: 2}
+    quantity: 1
+  - tile: {fileID: 11400000, guid: 1f6a52402aa3a6344ba52a2468d3ac55, type: 2}
+    quantity: 1
